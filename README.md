@@ -15,4 +15,4 @@ Completed [project](https://github-users-react-by-malina.netlify.app/)
 ---
 
 #### Screenshots
-![image](./screenshot.png)
+![image](./screenshot1.png)
