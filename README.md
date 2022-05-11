@@ -1,4 +1,4 @@
-# Quiz React
+# Github Users React
 
 To start project
 
@@ -10,7 +10,7 @@ To start project
 
 ---
 
-Completed [project](https://quiz-react-by-malina.netlify.app/)
+Completed [project](https://github-users-react-by-malina.netlify.app/)
 
 ---
 
